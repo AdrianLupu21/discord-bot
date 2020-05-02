@@ -1,2 +1,2 @@
 # LupuBot
-Explain here every new feature you implemented
+Explain here every new feature you implement
